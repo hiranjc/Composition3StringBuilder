@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Composition3StringBuilder\bin\Debug\net8.0\Composition3StringBuilder.exe
+C:\Users\ET73\Downloads\projetos-c#\Composition3StringBuilder\bin\Debug\net8.0\Composition3StringBuilder.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Composition3StringBuilder\bin\Debug\net8.0\Composition3StringBuilder.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Composition3StringBuilder\bin\Debug\net8.0\Composition3StringBuilder.dll
+C:\Users\ET73\Downloads\projetos-c#\Composition3StringBuilder\bin\Debug\net8.0\Composition3StringBuilder.pdb
+C:\Users\ET73\Downloads\projetos-c#\Composition3StringBuilder\obj\Debug\net8.0\Composition3StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Composition3StringBuilder\obj\Debug\net8.0\Composition3StringBuilder.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Composition3StringBuilder\obj\Debug\net8.0\Composition3StringBuilder.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Composition3StringBuilder\obj\Debug\net8.0\Composition3StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Composition3StringBuilder\obj\Debug\net8.0\Composition3StringBuilder.dll
+C:\Users\ET73\Downloads\projetos-c#\Composition3StringBuilder\obj\Debug\net8.0\refint\Composition3StringBuilder.dll
+C:\Users\ET73\Downloads\projetos-c#\Composition3StringBuilder\obj\Debug\net8.0\Composition3StringBuilder.pdb
+C:\Users\ET73\Downloads\projetos-c#\Composition3StringBuilder\obj\Debug\net8.0\Composition3StringBuilder.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Composition3StringBuilder\obj\Debug\net8.0\ref\Composition3StringBuilder.dll
